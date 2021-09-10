@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.infosys.infymarket</groupId>
-	<artifactId>order</artifactId>
+	<artifactId>OrderMS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -23,7 +23,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
-		<sonar.projectKey>SANDEEP-RACHA_orderms</sonar.projectKey>
+		<sonar.projectKey>sandeep1</sonar.projectKey>
 		<sonar.organization>sandeepracha</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
